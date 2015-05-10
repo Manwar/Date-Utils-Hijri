@@ -1,6 +1,6 @@
 package Date::Utils::Hijri;
 
-$Date::Utils::Hijri::VERSION = '0.01';
+$Date::Utils::Hijri::VERSION = '0.02';
 
 =head1 NAME
 
@@ -8,7 +8,7 @@ Date::Utils::Hijri - Hijri date specific routines as Moo Role.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 

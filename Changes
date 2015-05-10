@@ -1,4 +1,7 @@
 Revision history for Date::Utils::Hijri
 
+0.02  Sun May 10 19:40:00 2015
+      - Added unit test script t/01-date-utils-hijri.t file.
+
 0.01  Thu Apr 23 23:10:00 2015
       - First version, released.
